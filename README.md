@@ -11,9 +11,9 @@ A numerical study of gradient-based optimization algorithm using Python and Jupy
 
 ## Repository Contents
 
-| File                |   | Description                                                        |   |
-| ------------------- | - | ------------------------------------------------------------------ | - |
-| GD_experiment.ipynb |   | Part 1 consisted of experiment on gradient descent and heavy ball. |   |
+| File | Description |
+| --- | --- |
+| `GD_experiment.ipynb` | Part 1 consists of experiments on Gradient Descent and Heavy Ball. |
 
 ## Tools and Libraries
 
@@ -27,7 +27,7 @@ A numerical study of gradient-based optimization algorithm using Python and Jupy
 
 1. Clone or download this repository.
 2. Install the Python packages required by the notebook.
-3. Open `gradient_descent_part1.ipynb` in VS Code or Jupyter Notebook.
+3. Open `GD_experiment.ipynb` in VS Code or Jupyter Notebook.
 4. Run the cells in sequence to reproduce the experiment.
 
 ## Current Status
